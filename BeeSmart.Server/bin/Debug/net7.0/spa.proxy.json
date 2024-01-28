@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\zheny\\source\\repos\\BeeSmart\\BeeSmart.Server\\..\\beesmart.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

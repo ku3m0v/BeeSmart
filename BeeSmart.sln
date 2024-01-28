@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeSmart.Server", "BeeSmart.Server\BeeSmart.Server.csproj", "{18B6B0B3-5283-4ED4-A462-CE781269E0DF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "beesmart.client", "beesmart.client\beesmart.client.esproj", "{EF0B3E71-1363-4907-A6B5-E39E852EF4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B6B0B3-5283-4ED4-A462-CE781269E0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B6B0B3-5283-4ED4-A462-CE781269E0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B6B0B3-5283-4ED4-A462-CE781269E0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B6B0B3-5283-4ED4-A462-CE781269E0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0B3E71-1363-4907-A6B5-E39E852EF4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0B3E71-1363-4907-A6B5-E39E852EF4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0B3E71-1363-4907-A6B5-E39E852EF4BA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EF0B3E71-1363-4907-A6B5-E39E852EF4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0B3E71-1363-4907-A6B5-E39E852EF4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0B3E71-1363-4907-A6B5-E39E852EF4BA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0D7F91-378D-45D5-AFC3-77414E5BACE0}
+	EndGlobalSection
+EndGlobal
